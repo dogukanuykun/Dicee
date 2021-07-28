@@ -1,6 +1,6 @@
 # Dicee
 Dicee Game for DOM Manipulation and understanding JS basics
 <hr>
-Dicee Game : https://dogukanuykun.github.io/Dicee/
+Dicee Game : 
 <hr>
 <img src="dice.png"/>
